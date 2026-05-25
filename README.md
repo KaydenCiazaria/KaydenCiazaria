@@ -1,4 +1,6 @@
+## 👋
 Hello, I'm Kayden Ciazaria!  <br />
+
 I'm an IT student passionate Software Engineer focusing on full-stack development in Germany. <br />
 I focuses on building scalable and secure backend architectures, strict database structures, and responsive user interfaces. 
 
@@ -10,7 +12,6 @@ Backend: Node.js, TypeScript, REST APIs <br />
 Databases: SQL, MongoDB, PostgreSQL <br />
 Tools: Git, Linux, Docker <br />
 
----
 
 ## 📈 Featured Engineering Projects
 
@@ -23,7 +24,6 @@ An enterprise desktop-web portal written in object-oriented PHP and bound to a s
 ### VERO Thrift Marketplace
 A dockerized e-commerce microservice platform pairing an adaptive React viewport framework alongside high-concurrency **Go (Golang)** and Express.js transaction handlers.
 
----
 
 ## 📫 How to reach me
 *   Connect with me on [LinkedIn](www.linkedin.com/in/kayden-ciazaria-88a70b264)
