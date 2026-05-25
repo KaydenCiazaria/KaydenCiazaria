@@ -1,5 +1,4 @@
-## 👋
-Hello, I'm Kayden Ciazaria!  <br />
+Hello, I'm Kayden Ciazaria! 👋 <br />
 
 I'm an IT student passionate Software Engineer focusing on full-stack development in Germany. <br />
 I focuses on building scalable and secure backend architectures, strict database structures, and responsive user interfaces. 
